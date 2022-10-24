@@ -9,4 +9,4 @@ botname = {
     "TizyRN62"
 }
 
-menit = 0.1
+menit = 20
