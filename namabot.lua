@@ -8,3 +8,5 @@ botname = {
     "TizyRN60",
     "TizyRN62"
 }
+
+menit = 1
