@@ -26,5 +26,9 @@ ip_add = {
     "192.168.0.7"
 }
 
+hookURL = "https://discord.com/api/webhooks/1034018663000453193/T9rxlauJoZwN3dDfudvgpQIbFP7mMm3mtwuAWqOZxajnZINtcLGtCT-SWC7_oeSo9_xy"
+Emote_Offline = "<:offline:982957367392088124>"
+Emote_Online = "<:online:982957403756716052>"
+
 menit = 0.2
 ShowIP = true
