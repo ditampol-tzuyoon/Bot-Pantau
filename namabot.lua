@@ -23,3 +23,4 @@ ip_add = {
 }
 
 menit = 0.2
+ShowIP = true
