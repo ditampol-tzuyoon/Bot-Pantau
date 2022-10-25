@@ -1,5 +1,3 @@
-TotalRdp = 6
-
 Rdp = {
     {nordp = 1, botname = "Ohdear", Status = "Nonaktif"},
     {nordp = 1, botname = "OdStillAlive", Status = "Nonaktif"},
@@ -15,3 +13,4 @@ Rdp = {
 }
 
 menit = 0.2
+TotalRdp = 6
