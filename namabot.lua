@@ -11,7 +11,7 @@ Rdp = {
     {nordp = 5, botname = "eidug", Status = "Nonaktif"},
     {nordp = 5, botname = "YananKeskes", Status = "Nonaktif"},
     {nordp = 6, botname = "Chinapore", Status = "Nonaktif"},
-    {nordp = 6, botname = "chinapore", Status = "Nonaktif"}
+    {nordp = 6, botname = "chinapore", Status = "Nonaktif"},
     {nordp = 7, botname = "Sakirr", Status = "Nonaktif"},
     {nordp = 7, botname = "LeeMor", Status = "Nonaktif"},
     {nordp = 7, botname = "Nourios", Status = "Nonaktif"}
