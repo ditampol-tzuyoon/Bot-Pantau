@@ -1,10 +1,10 @@
 Rdp = {
-    {nordp = 1, botname = "TizyRN13", Status = "Nonaktif"},
-    {nordp = 1, botname = "TizyRN15", Status = "Nonaktif"},
+    {nordp = 1, botname = "308MalesBgt", Status = "Nonaktif"},
+    {nordp = 1, botname = "316MalesBgt", Status = "Nonaktif"},
     {nordp = 2, botname = "TizyRN1", Status = "Nonaktif"},
     {nordp = 2, botname = "TizyRN10", Status = "Nonaktif"},
+    {nordp = 3, botname = "TizyRN13", Status = "Nonaktif"},
     {nordp = 3, botname = "TizyRN15", Status = "Nonaktif"},
-    {nordp = 3, botname = "316MalesBgt", Status = "Nonaktif"},
     {nordp = 4, botname = "TizyRN60", Status = "Nonaktif"},
     {nordp = 4, botname = "TizyRN62", Status = "Nonaktif"},
     {nordp = 5, botname = "312MalesBgt", Status = "Nonaktif"},
