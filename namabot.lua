@@ -7,8 +7,8 @@ Rdp = {
     {nordp = 3, botname = "TizyRN15", Status = "Nonaktif"},
     {nordp = 4, botname = "TizyRN60", Status = "Nonaktif"},
     {nordp = 4, botname = "TizyRN62", Status = "Nonaktif"},
-    {nordp = 5, botname = "312MalesBgt", Status = "Nonaktif"},
     {nordp = 5, botname = "311MalesBgt", Status = "Nonaktif"},
+    {nordp = 5, botname = "312MalesBgt", Status = "Nonaktif"},
     {nordp = 6, botname = "313MalesBgt", Status = "Nonaktif"},
     {nordp = 6, botname = "315MalesBgt", Status = "Nonaktif"}
 }
@@ -31,5 +31,5 @@ Teks_Footer = "Golek Duit Kanggo Masa Depan"
 Emote_Offline = "<:offline:982957367392088124>"
 Emote_Online = "<:online:982957403756716052>"
 
-menit = 0.2
+menit = 5
 ShowIP = true
