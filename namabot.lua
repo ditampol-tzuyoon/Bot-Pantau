@@ -1,19 +1,16 @@
 Rdp = {
-    {nordp = 1, botname = "MarloZZ", Status = "Nonaktif"},
-    {nordp = 1, botname = "Ohdear2320", Status = "Nonaktif"},
-    {nordp = 1, botname = "OdPayments", Status = "Nonaktif"},
-    {nordp = 2, botname = "Matteww", Status = "Nonaktif"},
-    {nordp = 2, botname = "Dekan0z", Status = "Nonaktif"},
-    {nordp = 3, botname = "NETELSAN", Status = "Nonaktif"},
-    {nordp = 3, botname = "Ermoi", Status = "Nonaktif"},
-    {nordp = 4, botname = "Lcycarry", Status = "Nonaktif"},
-    {nordp = 4, botname = "BABUCOK", Status = "Nonaktif"},
-    {nordp = 5, botname = "eidug", Status = "Nonaktif"},
-    {nordp = 5, botname = "YananKeskes", Status = "Nonaktif"},
-    {nordp = 6, botname = "Chinapore", Status = "Nonaktif"},
-    {nordp = 6, botname = "Sakirr", Status = "Nonaktif"},
-    {nordp = 7, botname = "LeeMor", Status = "Nonaktif"},
-    {nordp = 7, botname = "Nourios", Status = "Nonaktif"}
+    {nordp = 1, botname = "TizyRN13", Status = "Nonaktif"},
+    {nordp = 1, botname = "TizyRN15", Status = "Nonaktif"},
+    {nordp = 2, botname = "TizyRN1", Status = "Nonaktif"},
+    {nordp = 2, botname = "TizyRN10", Status = "Nonaktif"},
+    {nordp = 3, botname = "TizyRN15", Status = "Nonaktif"},
+    {nordp = 3, botname = "316MalesBgt", Status = "Nonaktif"},
+    {nordp = 4, botname = "TizyRN60", Status = "Nonaktif"},
+    {nordp = 4, botname = "TizyRN62", Status = "Nonaktif"},
+    {nordp = 5, botname = "312MalesBgt", Status = "Nonaktif"},
+    {nordp = 5, botname = "311MalesBgt", Status = "Nonaktif"},
+    {nordp = 6, botname = "313MalesBgt", Status = "Nonaktif"},
+    {nordp = 6, botname = "315MalesBgt", Status = "Nonaktif"}
 }
 
 ip_add = {
