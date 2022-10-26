@@ -9,8 +9,8 @@ Rdp = {
     {nordp = 4, botname = "TizyRN62", Status = "Nonaktif"},
     {nordp = 5, botname = "311MalesBgt", Status = "Nonaktif"},
     {nordp = 5, botname = "312MalesBgt", Status = "Nonaktif"},
-    {nordp = 6, botname = "313MalesBgt", Status = "Nonaktif"},
-    {nordp = 6, botname = "315MalesBgt", Status = "Nonaktif"}
+    {nordp = 6, botname = "315MalesBgt", Status = "Nonaktif"},
+    {nordp = 6, botname = "TizyRN19", Status = "Nonaktif"}
 }
 
 ip_add = {
