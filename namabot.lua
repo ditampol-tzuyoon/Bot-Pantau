@@ -6,11 +6,11 @@ Rdp = {
     {nordp = 3, botname = "TizyRN13", Status = "Nonaktif"},
     {nordp = 3, botname = "TizyRN15", Status = "Nonaktif"},
     {nordp = 4, botname = "TizyRN60", Status = "Nonaktif"},
-    {nordp = 4, botname = "TizyRN62", Status = "Nonaktif"},
+    {nordp = 4, botname = "TizyRN63", Status = "Nonaktif"},
     {nordp = 5, botname = "311MalesBgt", Status = "Nonaktif"},
     {nordp = 5, botname = "312MalesBgt", Status = "Nonaktif"},
-    {nordp = 6, botname = "315MalesBgt", Status = "Nonaktif"},
-    {nordp = 6, botname = "TizyRN19", Status = "Nonaktif"}
+    {nordp = 6, botname = "TizyRN64", Status = "Nonaktif"},
+    {nordp = 6, botname = "TizyRN66", Status = "Nonaktif"}
 }
 
 ip_add = {
